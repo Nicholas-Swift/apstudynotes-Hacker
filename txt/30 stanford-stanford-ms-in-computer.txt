@@ -1,0 +1,109 @@
+
+I'm hoping to do an MS in Computer Science at Stanford so that I can become more technical and obtain the
+skills I need to build the software that I want to exist, rather than just imagine it. I've had several jobs in
+technology-related fields, as an investment banker and as an early non-technical employee at a startup, and
+have realized that the ability to code is foundational to the career in product management or data science that I
+want, even if I don't end up spending my entire career in a text editor. Though I haven't formally studied CS
+except for one pass/fail introductory course in college, I have a strong technical background, excel in problem
+solving and have spent the past several months teaching myself to code through various online courses.
+Without much background in CS, it's difficult for me to meaningfully identify the subfield I'd like to specialize
+in, but hope that I can do so as I learn more and believe that my history of novel research into the disparate
+areas of economics and power systems engineering demonstrates that I would thrive in Stanford's CS
+department if given the chance.
+
+
+
+I graduated from Harvard in 2009, where I studied economics and statistics, graduating summa cum laude. My
+thesis analyzed a data set of more than 350,000 mortgage offers made to borrowers during the last days of the
+credit bubble that I obtained from the Federal Reserve of Boston. Through regression analysis and a few basic
+data visualizations, I first showed that lenders were more sensitive to risk factors related to house prices and
+less sensitive to risk factors related to ability to repay when lending to subprime borrowers, implying that they
+knew these loans were only likely to be repaid if house prices continued to rise. I also similarly showed that lenders that were owned by investment banks had looser underwriting standards than independent ones,
+implying that the ability to easily securitize the risk of owning a mortgage encouraged a lowering of credit
+standards. Many commentators and academics had suspected this, but I was the first to show it quantitatively.
+
+
+After college, I accepted a fellowship to study engineering for sustainable development at Cambridge in hopes
+of learning more about the technical aspects of renewable energy, which I see as one of the greatest challenges,
+opportunities and responsibilities facing my generation. The program was pass/fail so I spent most of the first,
+coursework-focused part of the program traveling and doing independent study as I was disappointed in how
+fuzzy many of my classes were. In the latter, research-focused part of the program, this bore fruit as I was able
+to write a highly technical dissertation that used a mixed-integer, quadratic program to model theoretical power
+systems behavior with greatly increased renewables capacity. Faced with a difficult optimization problem and
+needing to solve it for nearly 100 scenarios, I learned how to write a crude Excel VBA script that served as an
+introduction to what I would later learn was object-oriented programming. My paper shows that wind and solar
+farms, individually or in combination, can only practically reduce grid CO2 emissions by ~50% at a 60% – 180%
+increase in cost (depending on their relative mix) despite the fact that wind and solar production have some
+small offsetting variability that helps to smooth their overall production when used in combination. However,
+this expansion coupled with merely a doubling of current nuclear capacity extends this limit to greater than
+70% due to the stability of nuclear generation. I was delighted to receive an A+ on my dissertation as well as the
+class prize for Best Poster. After presenting it, my advisor wanted to publish it going so far as to say that "it
+needed to be published," but I sadly had to finish the course several months early to start my job so I did not
+have time to convert it into a publication-ready form.
+
+
+
+After graduate school, I first worked for Goldman Sachs as an investment banker, where I made presentations
+and financial models for technology companies. I joined the firm thinking we'd be advising high-growth
+technology and cleantech companies on their strategic decisions, but I was disappointed to find this wasn't true.
+The only companies who wanted our services were mature and cash-laden and our services were often not
+much more than opinions that Boards of Directors needed to shield themselves from legal risk. Further, I
+wasn't working with the deeply analytical and save-the-world ambitious kind of people that I want to be, so I
+left disappointed and unsure of what to do next after only 6 months. Soon after, I joined Quora, a user-
+generated content site for knowledge sharing, primarily thanks to my prolific activity on the site enabled by my newfound copious free time. I thoroughly enjoyed my time with the company, especially the type of people I
+was privileged to work with and the cutting-edge nature of our product and associated problems; however, I
+also found my inability to code limited how much I could contribute. When my two-way trial basis internship
+ended, I decided not to join full-time.
+
+
+Over the past year, I've spent a lot of unstructured time learning and exploring. For the past few months, I've
+been spending 6-8 hours/day devouring every free or semi-free programming tutorial on the Internet I can
+find, such as CodeHS, a site started by two former CS106a TAs whose curriculum is highly similar to that of the
+same course. I wrote a brief Quora answer about my experience and the sites I've found most useful that has
+been viewed nearly 20,000 times and was republished by Forbes's blog. For the final assignment on CodeHS,
+which is nearly identical to CS106a's problem set 3, I implemented a version of the game Breakout in
+Javascript, extending it to have power-ups and additional levels, which I can only hope would earn a '++' from
+Prof. Sehami and his staff. Mainly for this application, I set up a web server on Amazon Web Services and
+created a basic page showing off some of my writing and past projects, such as my EpicBreakout. I've also been
+traveling around the country with friends, reading and writing for several hours/day and learning how to yo-yo. For money, I've been tutoring Stanford students in econometrics, local high schoolers in algebra, and users
+of CodeHS in programming as well as playing poker.
+
+
+
+My online coursework and side projects like making a Twitter bot have taught me fundamental programming
+concepts and helped keep me productive, but are still not a replacement for the experience I'd get at Stanford. If
+accepted, my day-to-day life might not noticeably change as I already spend 40-50 hours/week in Huang and
+Y2E2, but the work I'd be doing would be more holistic, structured and interactive, though it may take me
+longer to complete the program than a student with a CS background. Online coursework is skewed to web-
+centered applications, the problems are by necessity typically much shorter than university problem sets and
+they are frequently auto-graded so they can’t provide individualized feedback. Further, simply being in an MS
+program at a selective, highly regarded school like Stanford, the undeniable heart of Silicon Valley, would
+instantly give me a social group as well as collaboration opportunities that I currently struggle to find. In the
+next 9 months before the program would begin, I plan to continue taking on more online coursework,
+specifically, the Stanford iPhone course (CS 193P), and work on increasingly larger-scale side projects as I've
+found this to be the most engaging way for me to learn now that I have some basic ability. I believe that
+contemporary computer scientists are truly, to quote an inspirational YouTube video by Prof. Sehami,
+"geometers in the time of Euclid" and I think this program will give me the tools I need to make my mark on the
+world, maybe even a dent in the universe. 
+
+
+Enlist the expert help of one of our Ivy-League editors. Get individual coaching to make your essay stand out among the crowd. Learn more.
+
+
+Keep reading more Stanford admissions essays — you can't be too prepared!
+
+
+Previous EssayNext Essay
+
+
+Tip: Use the ← → keys to navigate!
+
+
+Education is the key to unlock the golden door of freedom. George Washington Carver
+
+
+That's easy — it's the best way to study for AP classes and AP exams! StudyNotes offers fast, free study tools for AP students. Our AP study guides, practice tests, and notes are the best on the web because they're contributed by students and teachers like yourself. Always 100% free.
+
+
+Follow @StudyNotesApp on Twitter!
+

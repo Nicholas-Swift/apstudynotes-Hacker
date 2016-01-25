@@ -1,0 +1,39 @@
+
+Additional Information
+
+
+My Intel STS project originated while I was hiking during a thunderstorm. I was pondering, with some trepidation, what determines the paths of lightning bolts; I reflected that they must take some course of least resistance. Suddenly I was struck (by an idea): could an electronic hardware model of this physical phenomenon be used to solve the shortest path problem in graph theory (e.g. "What is the shortest route a car can take through a network of roads to arrive at its destination?")?
+
+
+The lightning insight didn't pan out, but a week later, I found inspiration in a different natural phenomenon. While surfing, as I watched rivulets of water branching and re-fusing as they found their way down my surfboard, I realized that water molecules diffusing throughout a network could essentially function as thousands of identical-speed cars taking every possible path; the first "car" to reach the destination from the origin would have taken the shortest path. I simulated a graph with a network of paper towel strips, soaked one intersection of strips (the origin) in water, and watched the liquid diffuse through the network, marking which incident strip was the first to wet each subsequent intersection. Once water reached the destination, I could identify the path taken by the first molecules to arrive (i.e. the shortest path) simply by tracing the sequence of marked strips backwards from the destination to the origin.
+
+
+This formed the basis of the parallel algorithm that I quantized, accelerated and then implemented synchronously on an FPGA microchip for the Intel STS; it ran on the order of 300 times faster than high-speed sequential approaches. Moreover, it generalized to solve the NP-complete (much harder) knapsack problem. I continue to investigate the paradigm's potential today.
+
+
+My paper, entitled "Development and Synchronous FPGA Implementation of a Parallel Accelerated Propagation-Delay Algorithm for Shortest- Path Problem", can be found at:
+
+
+Enlist the expert help of one of our Ivy-League editors. Get individual coaching to make your essay stand out among the crowd. Learn more.
+
+
+Keep reading more Caltech admissions essays — you can't be too prepared!
+
+
+Previous EssayNext Essay
+
+
+Tip: Use the ← → keys to navigate!
+
+
+This essay comes from AdmitSphere who kindly allowed it to be republished here.
+
+
+Education is the most powerful weapon which you can use to change the world. Nelson Mandela
+
+
+That's easy — it's the best way to study for AP classes and AP exams! StudyNotes offers fast, free study tools for AP students. Our AP study guides, practice tests, and notes are the best on the web because they're contributed by students and teachers like yourself. Always 100% free.
+
+
+Follow @StudyNotesApp on Twitter!
+
