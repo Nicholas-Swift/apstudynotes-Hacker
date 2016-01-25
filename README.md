@@ -22,5 +22,3 @@ I've been learning Python and I finally reached the web scraping chapter. After 
 was at and start writing a program to dowload all 141 essays on the apstudynotes site. Let the hacking begin!
 
 # The Code
-Hello this is code below
-<code> #include blah blah </code>
