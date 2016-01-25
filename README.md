@@ -18,7 +18,8 @@ However, most of the essays are barred behind a pay wall. At the time, I was abl
 and just deleting the paywall and changing the 'blur' effect. They've since changed the site and it's become a little more difficult
 to actually get through to the essays.
 
-I've been learning Python and I finally reached the web scraping chapter. After a few pages in, I decided to stop where I
+I've been learning Python and I finally reached the web scraping chapter. A few pages in, I decided to stop where I
 was at and start writing a program to dowload all 141 essays on the apstudynotes site. Let the hacking begin!
 
 # The Code
+Will add information going over the code later! Need to get to work!
