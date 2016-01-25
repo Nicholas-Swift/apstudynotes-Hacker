@@ -1,6 +1,14 @@
 # apstudynotes-Hacker
 All the apstudynotes.org/essays essays for free!
 
+I'm not exactly sure of the legality of using the program. I've only provided the code and program.
+
+To use the program...
+ - Click "Download ZIP"
+ - Extract the files from "apstudynotes-Hacker.zip"
+ - Run "AP Study Notes Hacker.py"
+ - Wait for the program to create all the files for you to enjoy!
+
 # The Buildup
 
 When I was a high school senior applying to colleges, I found the website www.apstudynotes.org/essays/ extremely helpful.
