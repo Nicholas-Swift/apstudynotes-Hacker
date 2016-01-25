@@ -5,7 +5,7 @@
 
 import os, requests, bs4
 
-# Create a txt, html, and doc file if they don't already exist
+# Create a txt, html, and doc folder if they don't already exist
 if not os.path.exists("./txt"):
     os.makedirs("./txt")
 if not os.path.exists("./html"):
