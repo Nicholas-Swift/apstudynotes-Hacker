@@ -5,6 +5,14 @@
 
 import os, requests, bs4
 
+# Create a txt, html, and doc file if they don't already exist
+if not os.path.exists("./txt"):
+    os.makedirs("./txt")
+if not os.path.exists("./html"):
+    os.makedirs("./html")
+if not os.path.exists("./doc"):
+    os.makedirs("./doc")
+
 # Get the URLs to apstudynotes.org's 141 essays.
 res = requests.get('https://www.apstudynotes.org/essays/')
 soup = bs4.BeautifulSoup(res.text, 'html.parser')
