@@ -1,7 +1,7 @@
 # apstudynotes-Hacker
 All the apstudynotes.org/essays essays for free!
 
-I'm not exactly sure of the legality of using the program. I've only provided the code and program.
+Disclaimer: The legality of using this program is a grey area. I've only provided the code and program.
 
 To use the program...
  - Click "Download ZIP"
@@ -21,12 +21,3 @@ I've been learning Python and I finally reached the web scraping chapter. A few 
 was at and start writing a program to dowload all 141 essays on the apstudynotes site. Let the hacking begin!
 
 # The Code
-<code>import os, requests, bs4
-
-# Create a txt, html, and doc folder if they don't already exist
-if not os.path.exists("./txt"):
-    os.makedirs("./txt")
-if not os.path.exists("./html"):
-    os.makedirs("./html")
-if not os.path.exists("./doc"):
-    os.makedirs("./doc")</code>
