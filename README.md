@@ -10,7 +10,6 @@ To use the program...
  - Wait for the program to create all the files for you to enjoy!
 
 # The Buildup
-
 When I was a high school senior applying to colleges, I found the website www.apstudynotes.org/essays/ extremely helpful.
 I took immense inspiration from reading the essays, and it significantly helped me shape my essays when application season started.
 
@@ -22,4 +21,12 @@ I've been learning Python and I finally reached the web scraping chapter. A few 
 was at and start writing a program to dowload all 141 essays on the apstudynotes site. Let the hacking begin!
 
 # The Code
-Will add information going over the code later! Need to get to work!
+<code>import os, requests, bs4
+
+# Create a txt, html, and doc folder if they don't already exist
+if not os.path.exists("./txt"):
+    os.makedirs("./txt")
+if not os.path.exists("./html"):
+    os.makedirs("./html")
+if not os.path.exists("./doc"):
+    os.makedirs("./doc")</code>
