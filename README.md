@@ -6,7 +6,7 @@ Disclaimer: The legality of using this program is a grey area. I've only provide
 To use the program...
  - Click "Download ZIP"
  - Extract the files from "apstudynotes-Hacker.zip"
- - Run "AP Study Notes Hacker.py"
+ - Run "AP Study Notes Hacker.py" #NOTE: You must have Python installed to be able to run a .py
  - Wait for the program to create all the files for you to enjoy!
 
 # The Buildup
@@ -21,3 +21,6 @@ I've been learning Python and I finally reached the web scraping chapter. A few 
 was at and start writing a program to dowload all 141 essays on the apstudynotes site. Let the hacking begin!
 
 # The Code
+...python
+import os, requests, bs4
+...
