@@ -73,5 +73,37 @@ for i in range(len(elems)):
             tempString = tempString[:j] + '-' + tempString[j+1:]
     titleList.append(tempString)
 ```
+We remove the beginning of the url and the very last slash, so we're left something like 'uc-berkeley/describe-the-world-you-come-from'. Then we go through the string and change every instance of '/' to '-'. We then add that to titleList.
 
 ====================================================================
+
+I love for loops. We go through each url in urlList and requests.get() it. Beautiful Soup is then used to parse each page for only the paragraph tags. We also create all the files here - a .txt, .html, and .doc - and name them according to number and name in titleList.
+```
+# Now we have all the pages - perfect!
+# Time to get all the text from each page and put it into a .txt file
+for i in range(len(urlList)):
+    print('Getting contents: ' + urlList[i] + '...')
+    res = requests.get(urlList[i])
+    soup = bs4.BeautifulSoup(res.text, 'html.parser')
+
+    elems = soup.select('p')
+    
+    print('\tCreating .txt, .html, and .doc files')
+    filetxt = open(str('txt/' + str(i+1) + ' ' + titleList[i] + '.txt'), 'w', encoding='utf-8')
+    filehtml = open(str('html/' + str(i+1) + ' ' + titleList[i] + '.html'), 'w', encoding='utf-8')
+    filedoc = open(str('doc/' + str(i+1) + ' ' + titleList[i] + '.doc'), 'w', encoding='utf-8')
+```
+
+====================================================================
+
+I love for loops within for loops. Each paragraph tag's text is added to to the three files. The .txt and .doc files are appended with just text, but the .html file is appended with the actual html. We then close out of each file, and the for loop runs again for each url in urlList.
+```
+    for i in range(len(elems)):
+        filetxt.write(str('\n' + elems[i].getText() + '\n\n')) #txt file
+        filehtml.write(str(elems[i])) #html file
+        filedoc.write('\n' + elems[i].getText() + '\n\n') #doc file
+        
+    filetxt.close()
+    filehtml.close()
+    filedoc.close()
+```
