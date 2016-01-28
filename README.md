@@ -27,6 +27,8 @@ import os, requests, bs4
 ```
 We import os, requests, and bs4. We use os (Operating System) to check for and create directories - where the files will be located, requests to get the website html, and bs4 (Beautiful Soup) to parse it.
 
+====================================================================
+
 The next part of the code is self explanatory.
 ```
 # Create a txt, html, and doc folder if they don't already exist
@@ -37,6 +39,8 @@ if not os.path.exists("./html"):
 if not os.path.exists("./doc"):
     os.makedirs("./doc")
 ```
+
+====================================================================
 
 Now the next step we *could* take is to open up every single url and copy it into a .txt document. Then we'd read every single url from the .txt document... But why do that when we have Python?
 ```
@@ -55,6 +59,8 @@ for i in range(len(urlList)):
 ```
 Instead, we requests.get('https://www.apstudynotes.org/essays/') and parse the html for all links in header 3. Each link is added to urlList and edited a little to get the full url to each different essay on the website.
 
+====================================================================
+
 To create a name for each file, we edit urlList.
 ```
 # Get the titles of each essay, so we can name the files accurately
@@ -68,3 +74,4 @@ for i in range(len(elems)):
     titleList.append(tempString)
 ```
 
+====================================================================
