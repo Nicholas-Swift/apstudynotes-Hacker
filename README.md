@@ -1,3 +1,6 @@
+# NOTE:
+Apstudynotes has since changed their site and this script does not work anymore 😔. Please reach out to me on email.
+
 # apstudynotes-Hacker
 All the apstudynotes.org/essays essays for free!
 
